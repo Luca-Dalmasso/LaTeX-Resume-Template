@@ -1,5 +1,5 @@
 # Resume, Curriculum Vitae LaTex
-Simple Resume template writtein in LaTeX.
+My [Resume](./resume.pdf) written in LaTeX.
 
 To generate the .pdf use the command below:
 
